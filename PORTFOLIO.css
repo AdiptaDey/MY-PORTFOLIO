@@ -1,0 +1,44 @@
+
+
+body {
+  font-family: "Karla", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .dm-serif-text-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+
+
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: rgb(237, 172, 52);
+}
+
+.halfside{
+    width: 40% ;
+    float:  left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+.halfside img{
+    width: 40% ;
+    height: 100%;
+    
+}
